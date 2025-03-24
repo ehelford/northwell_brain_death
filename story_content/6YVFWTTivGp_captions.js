@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.93.33359.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.579%0D%0ABe%20sure%20the%20patient%20meets%20the%20required%20prerequisites%20before%20starting%20testing.%0D%0A%0D%0A"}')
